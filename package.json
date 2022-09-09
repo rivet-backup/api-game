@@ -1,1 +1,20 @@
-{"author":"Rivet Gaming, LLC","bugs":{"email":"support@rivet.gg"},"description":"OpenAPI client for @rivet-gg/api-game","devDependencies":{"typescript":"^3.6"},"homepage":"https://rivet.gg/","license":"MIT","main":"./dist/index.js","name":"@rivet-gg/api-game","scripts":{"build":"tsc","prepare":"npm run build"},"typings":"./dist/index.d.ts","version":"0.0.4"}
+{
+	"author": "Rivet Gaming, LLC",
+	"bugs": {
+		"email": "support@rivet.gg"
+	},
+	"description": "OpenAPI client for @rivet-gg/api-game",
+	"devDependencies": {
+		"typescript": "^3.6"
+	},
+	"homepage": "https://rivet.gg/",
+	"license": "MIT",
+	"main": "./dist/index.js",
+	"name": "@rivet-gg/api-game",
+	"scripts": {
+		"build": "tsc",
+		"prepare": "npm run build"
+	},
+	"typings": "./dist/index.d.ts",
+	"version": "0.0.4"
+}
